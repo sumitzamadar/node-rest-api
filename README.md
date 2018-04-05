@@ -1,2 +1,2 @@
-# node-rest-api
-Node REST API CRUD
+# Node REST API
+A sample Node REST API for CRUD operation
