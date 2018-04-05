@@ -1,7 +1,7 @@
 {
   "name": "node-rest-api",
   "version": "1.0.0",
-  "description": "node rest api",
+  "description": "Sample Node REST API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
